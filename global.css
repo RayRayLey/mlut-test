@@ -1,0 +1,15 @@
+:root {
+    --ml-pink900: #F0458D;
+    --ml-white: #FFFFFF;
+    --ml-blue100: #D7D6FE;
+    --ml-pink100: #FCD9E8;
+    --ml-black700: #3B3B3B;
+    --ml-black900: #070707;
+
+    --ml-bg: var(--ml-white);
+    --ml-text: var(--ml-black700);
+    --ml-text2:var(--ml-black900);
+    --ml-accent: var(--ml-pink900);
+    --ml-shape: var(--ml-blue100);
+    --ml-shape2: var(--ml-pink100);
+}

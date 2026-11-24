@@ -1,0 +1,16 @@
+{
+  "name": "mlut-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@mlut/core": "^2.6.1",
+    "mlut": "^7.1.1",
+    "sass-embedded": "^1.108.2"
+  }
+}
